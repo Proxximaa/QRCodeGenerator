@@ -12,7 +12,7 @@ pyperclip : https://pypi.org/project/pyperclip/
 TkInter : https://wiki.python.org/moin/TkInter (this should be a part of your python install)
 
 The usage is very simple and should be self explanatory.      
-1. Enter your text
-2. Select your version you want 1-40 (Normed ISO/IEC 18004)
-3. Generate your QR Code. (It will display in the window, if you want to copy it press the copy to clipboard button)
-4. + and - buttons increase the size inside the window so its more readable.
+1.   Enter your text
+2.   Select your version you want 1-40 (Normed ISO/IEC 18004)
+3.   Generate your QR Code. (It will display in the window, if you want to copy it press the copy to clipboard button)
+4.   + and - buttons increase the size inside the window so its more readable.
